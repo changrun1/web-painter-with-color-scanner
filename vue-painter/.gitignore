@@ -1,0 +1,35 @@
+# node modules 目錄
+/node_modules
+
+# 構建文件
+/dist
+/public
+
+# 環境變數和配置
+.env
+.env.local
+.env.*.local
+
+# 編輯器和操作系統文件
+*.log
+*.cache
+*.DS_Store
+*.swp
+*.swo
+*.tmp
+*.tmp.*
+.idea/
+.vscode/
+*.sublime*
+*.iml
+*.iml.*
+*.bak.*
+
+# 其他
+.DS_Store
+Thumbs.db
+db.json
+*.suo
+*.ntvs*
+*.njsproj
+*.idea/
